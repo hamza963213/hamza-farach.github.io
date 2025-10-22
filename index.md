@@ -4,8 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a dual-degree Master’s student in Computer Science at Keio University (Japan) and Ecole Centrale de Nantes (France). I am currently conducting research in the Ohtsuki Laboratory under the supervision of Professor Tomoaki Ohtsuki, focusing on deep learning methods for 3D human pose estimation.
 
+My research interests include deep learning, computer vision, and signal processing, with a particular focus on human state estimation, representation learning, and multimodal data analysis.
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
