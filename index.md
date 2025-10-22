@@ -2,7 +2,6 @@
 layout: homepage
 ---
 
-## About Me
 
 ## About Me
 
