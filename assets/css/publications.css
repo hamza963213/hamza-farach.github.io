@@ -79,4 +79,15 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
-.publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+.publications ol.bibliography li .teaser {
+    border-radius: 8px;
+    box-shadow: 3px 3px 6px #888;
+    height: 100px;        /* Hauteur fixe pour aligner tes publications */
+    width: auto;          /* Laisse l'image choisir sa largeur selon ses proportions */
+    max-width: 200px;     /* Empêche l'image de devenir trop large */
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    object-fit: contain;  /* Affiche l'image en entier sans la couper */
+    background-color: transparent; /* Au cas où il y a des marges */
+}
