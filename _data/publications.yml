@@ -20,4 +20,5 @@ main:
     authors: "Hamza Farach & InterDigital R&D Team"
     conference: "Filed by InterDigital R&D France, 2025"
     conference_short: "Patent"
+    notes: "Confidential"
     # Pas d'image ou PDF pour les brevets, c'est normal
