@@ -17,7 +17,7 @@ My research interests include deep learning, computer vision, representation lea
 
 ## News
 - **[Jun. 2026]** One paper submitted to IEEE Sensors !
-- **[May. 2026]** One paper accepted to [SPIE](https://www.spie.org/optics-photonics/presentation/Film-grain-needs-attention/14217-17) **film grain analysis** !
+- **[May. 2026]** One paper accepted to [SPIE](https://www.spie.org/optics-photonics/presentation/Film-grain-needs-attention/14217-17) on **film grain analysis** !
 - **[Oct. 2025]** Entered the Graduate School of Keio University 🎓
 - **[Sept. 2025]** Completed a **5-month research internship** at [InterDigital R&D France](https://www.interdigital.com/), working on **film grain analysis** and **deep learning–based similarity metrics**.
 
