@@ -24,7 +24,7 @@ My research interests include deep learning, computer vision, representation lea
 ## Education
 * **M.Sc. in Computer Science**, Keio University (Japan) | *GPA: 3.83/4.0* | *2025 - Present*
 * **M.Sc. in Engineering**, École Centrale de Nantes (France) | *GPA: 3.99/4.0* | *2023 - Present*
-* **Lycée Louis-le-Grand**, Classes Préparatoires aux Grandes Écoles (France) | *2020 - 2023*
+* **Lycée Louis-le-Grand**, CPGE (France) | *2020 - 2023*
 
 {% include_relative _includes/publications.md %}
 
