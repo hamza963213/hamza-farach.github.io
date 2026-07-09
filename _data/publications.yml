@@ -3,7 +3,7 @@ main:
     authors: "Hamza Farach, Mondher Bouazizi, Tomoaki Ohtsuki"
     conference: "Submitted to IEEE Sensors, 2026"
     conference_short: "In review"
-    image: "assets/files/bendo.drawio (2).png"
+    image: "assets/img/lidar_segmentation.png"
     pdf: "assets/files/8726_Farach_LiDAR_Segmentation.pdf"
     notes: "Submitted"
 
