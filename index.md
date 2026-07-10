@@ -35,7 +35,7 @@ My research interests include deep learning, computer vision, representation lea
   * Developed an attention-based deep learning model achieving state-of-the-art performance for normative film grain analysis.
   * Designed the first deep learning-based similarity metric tailored to film grain characteristics.
   * **Outputs:** 1 paper accepted at [SPIE 2026](https://www.spie.org/optics-photonics/presentation/Film-grain-needs-attention/14217-17) and 2 filed invention patents.
- 
+{% include_relative _includes/publications.md %} 
 ## Projects
 
 * **[Numerical Optimization Benchmark](https://github.com/hamza963213/Numerical-Optimization-From-Scratch/tree/main)** | *École Centrale de Nantes* | *2024*
