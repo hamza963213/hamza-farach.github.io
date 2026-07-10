@@ -39,5 +39,4 @@ My research interests include deep learning, computer vision, representation lea
 ## Projects
 
 * **[Numerical Optimization Benchmark](https://github.com/hamza963213/Numerical-Optimization-From-Scratch/tree/main)** | *École Centrale de Nantes* | *2024*
-  * From-scratch implementation of first and second-order optimization algorithms (Gradient Descent, Newton, Gauss-Newton, Levenberg-Marquardt).
-  * **Links:** [link](https://github.com/hamza963213/Numerical-Optimization-From-Scratch/tree/main)
+  * From-scratch implementation of first and second-order optimization algorithms (Gradient Descent, Conjugate Gradient, Newton, Quasi-Newton, Gauss-Newton, Levenberg-Marquardt).
